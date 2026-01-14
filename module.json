@@ -3,6 +3,12 @@
   "title": "MG - Vallaki",
   "version": "1.0.0",
   "compatibility": {
+
+  "url": "https://github.com/astvictor92/Master_Goose_Vallaki",  
+  "manifest": "https://raw.githubusercontent.com/astvictor92/Master_Goose_Vallaki/main/module.json",
+  "download": "https://github.com/astvictor92/Master_Goose_Vallaki/archive/refs/heads/main.zip",
+  "license": "MIT"
+    
     "minimum": "13",
     "verified": "13"
   },
